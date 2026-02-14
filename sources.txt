@@ -1,0 +1,10 @@
+https://example.com/funding/rss
+https://example.org/grants/feed
+https://news.example.net/opportunities.xml
+https://example.com/public-funding
+https://example.org/startup-grants
+https://example.net/eu-funding
+https://example.com/tenders
+https://example.org/innovation-calls
+https://example.net/research-funding
+https://example.com/business-support
